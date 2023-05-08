@@ -15,11 +15,11 @@ We highly recommend you go through the setup in `Dockerfile` and `docker-compose
 # Setup
 1. Clone this repository
 ```
-git clone https://github.com/adbrew/test.git
+git clone https://github.com/theapratap/adb_test.git
 ```
 2. Change into the cloned directory and set the environment variable for the code path. Replace `path_to_repository` appropriately.
 ```
-export ADBREW_CODEBASE_PATH="{path_to_repository}/test/src"
+export ADBREW_CODEBASE_PATH="{path_to_repository}/adb_test/src"
 ```
 3. Build container (you only need to build containers for the first time or if you change image definition, i.e., `Dockerfile`). This step will take a good amount of time.
 ```
@@ -60,3 +60,6 @@ When you run `localhost:3000`, you would see 2 things:
 4. Do not submit your solution as a PR since this is a public repo and there are other candidates taking the same test. Send us a link to your repo privately.
 5. If you are able to complete the test, we will have a live walkthrough of your code and ask questions to check your understanding.
 6. The code for the actual solution is pretty easy. The code quality in your solution should be production-ready - error handling, abstractions, well-maintainable and modular code.
+
+# Output
+<img width="500" alt="Screenshot 2022-04-06 at 8 57 55 AM" src="https://user-images.githubusercontent.com/16948492/236790875-6e3f1672-ccf4-4485-9f1a-d9ba3c752199.png">
