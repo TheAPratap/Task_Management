@@ -62,4 +62,4 @@ When you run `localhost:3000`, you would see 2 things:
 6. The code for the actual solution is pretty easy. The code quality in your solution should be production-ready - error handling, abstractions, well-maintainable and modular code.
 
 # Output
-<img width="500" alt="Screenshot 2022-04-06 at 8 57 55 AM" src="https://user-images.githubusercontent.com/16948492/236790875-6e3f1672-ccf4-4485-9f1a-d9ba3c752199.png">
+<img width="750" alt="Screenshot 2022-04-06 at 8 57 55 AM" src="https://user-images.githubusercontent.com/16948492/236790875-6e3f1672-ccf4-4485-9f1a-d9ba3c752199.png">
